@@ -1,0 +1,222 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "Api de Gestão de Processos",
+    "description": "Api desenvolvida em ASP.NET Core para gestão de processos",
+    "version": "v1"
+  },
+  "paths": {
+    "/api/Clientes": {
+      "get": {
+        "tags": [
+          "Clientes"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Clientes"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ClientesDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ClientesDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/ClientesDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/Clientes/{id}": {
+      "get": {
+        "tags": [
+          "Clientes"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/": {
+      "get": {
+        "tags": [
+          "Home"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/down": {
+      "get": {
+        "tags": [
+          "Home"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/processos": {
+      "get": {
+        "tags": [
+          "Processo"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Processo"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ProcessoDto"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ProcessoDto"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/ProcessoDto"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/processos/{id}": {
+      "get": {
+        "tags": [
+          "Processo"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "ClientesDto": {
+        "required": [
+          "nome"
+        ],
+        "type": "object",
+        "properties": {
+          "nome": {
+            "minLength": 1,
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      },
+      "ProcessoDto": {
+        "required": [
+          "assunto",
+          "data",
+          "interessado",
+          "numero"
+        ],
+        "type": "object",
+        "properties": {
+          "numero": {
+            "minLength": 1,
+            "type": "string"
+          },
+          "data": {
+            "type": "string",
+            "format": "date"
+          },
+          "interessado": {
+            "minLength": 5,
+            "type": "string"
+          },
+          "assunto": {
+            "minLength": 5,
+            "type": "string"
+          },
+          "descricao": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "tags": [
+    {
+      "name": "Clientes"
+    },
+    {
+      "name": "Home"
+    },
+    {
+      "name": "Processo"
+    }
+  ]
+}

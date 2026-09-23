@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "wxyFU2/yUtc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5ºP\\ApiGestaoProcessos\\ApiGestaoProcessos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hyago\\.nuget\\packages\\automapper\\16.2.0\\automapper.16.2.0.nupkg.sha512",
+    "C:\\Users\\hyago\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.10\\microsoft.aspnetcore.openapi.10.0.10.nupkg.sha512",
+    "C:\\Users\\hyago\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.0\\microsoft.entityframeworkcore.9.0.0.nupkg.sha512",
+    "C:\\Users\\hyago\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\9.0.0\\microsoft.entityframeworkcore.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\hyago\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\9.0.0\\microsoft.entityframeworkcore.analyzers.9.0.0.nupkg.sha512",
+    "C:\\Users\\hyago\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\9.0.0\\microsoft.entityframeworkcore.relational.9.0.0.nupkg.sha512",
+    "C:\\Users\\hyago\\.nuget\\packages\\microsoft.extensions.apidescription.server\\10.0.0\\microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
+    "C:\\Users\\hyago\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.14.0\\microsoft.identitymodel.abstractions.8.14.0.nupkg.sha512",
+    "C:\\Users\\hyago\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.14.0\\microsoft.identitymodel.jsonwebtokens.8.14.0.nupkg.sha512",
+    "C:\\Users\\hyago\\.nuget\\packages\\microsoft.identitymodel.logging\\8.14.0\\microsoft.identitymodel.logging.8.14.0.nupkg.sha512",
+    "C:\\Users\\hyago\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.14.0\\microsoft.identitymodel.tokens.8.14.0.nupkg.sha512",
+    "C:\\Users\\hyago\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512",
+    "C:\\Users\\hyago\\.nuget\\packages\\mysqlconnector\\2.4.0\\mysqlconnector.2.4.0.nupkg.sha512",
+    "C:\\Users\\hyago\\.nuget\\packages\\pomelo.entityframeworkcore.mysql\\9.0.0\\pomelo.entityframeworkcore.mysql.9.0.0.nupkg.sha512",
+    "C:\\Users\\hyago\\.nuget\\packages\\swashbuckle.aspnetcore\\10.2.3\\swashbuckle.aspnetcore.10.2.3.nupkg.sha512",
+    "C:\\Users\\hyago\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.2.3\\swashbuckle.aspnetcore.swagger.10.2.3.nupkg.sha512",
+    "C:\\Users\\hyago\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.2.3\\swashbuckle.aspnetcore.swaggergen.10.2.3.nupkg.sha512",
+    "C:\\Users\\hyago\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.2.3\\swashbuckle.aspnetcore.swaggerui.10.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

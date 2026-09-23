@@ -1,0 +1,89 @@
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PW II - 5ºP\ApiGestaoProcessos\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PW II - 5ºP\ApiGestaoProcessos\bin\Debug\net10.0\appsettings.json
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PW II - 5ºP\ApiGestaoProcessos\bin\Debug\net10.0\ApiGestaoProcessos.staticwebassets.endpoints.json
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PW II - 5ºP\ApiGestaoProcessos\bin\Debug\net10.0\ApiGestaoProcessos.exe
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PW II - 5ºP\ApiGestaoProcessos\bin\Debug\net10.0\ApiGestaoProcessos.deps.json
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PW II - 5ºP\ApiGestaoProcessos\bin\Debug\net10.0\ApiGestaoProcessos.runtimeconfig.json
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PW II - 5ºP\ApiGestaoProcessos\bin\Debug\net10.0\ApiGestaoProcessos.dll
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PW II - 5ºP\ApiGestaoProcessos\bin\Debug\net10.0\ApiGestaoProcessos.pdb
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PW II - 5ºP\ApiGestaoProcessos\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PW II - 5ºP\ApiGestaoProcessos\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PW II - 5ºP\ApiGestaoProcessos\obj\Debug\net10.0\ApiGestaoProcessos.csproj.AssemblyReference.cache
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PW II - 5ºP\ApiGestaoProcessos\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PW II - 5ºP\ApiGestaoProcessos\obj\Debug\net10.0\ApiGestaoProcessos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PW II - 5ºP\ApiGestaoProcessos\obj\Debug\net10.0\ApiGestaoProcessos.AssemblyInfoInputs.cache
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PW II - 5ºP\ApiGestaoProcessos\obj\Debug\net10.0\ApiGestaoProcessos.AssemblyInfo.cs
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PW II - 5ºP\ApiGestaoProcessos\obj\Debug\net10.0\ApiGestaoProcessos.csproj.CoreCompileInputs.cache
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PW II - 5ºP\ApiGestaoProcessos\obj\Debug\net10.0\ApiGestaoProcessos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PW II - 5ºP\ApiGestaoProcessos\obj\Debug\net10.0\ApiGestaoProcessos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PW II - 5ºP\ApiGestaoProcessos\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PW II - 5ºP\ApiGestaoProcessos\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PW II - 5ºP\ApiGestaoProcessos\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PW II - 5ºP\ApiGestaoProcessos\obj\Debug\net10.0\scopedcss\bundle\ApiGestaoProcessos.styles.css
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PW II - 5ºP\ApiGestaoProcessos\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PW II - 5ºP\ApiGestaoProcessos\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PW II - 5ºP\ApiGestaoProcessos\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PW II - 5ºP\ApiGestaoProcessos\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PW II - 5ºP\ApiGestaoProcessos\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PW II - 5ºP\ApiGestaoProcessos\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PW II - 5ºP\ApiGestaoProcessos\obj\Debug\net10.0\ApiGesta.A5B59099.Up2Date
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PW II - 5ºP\ApiGestaoProcessos\obj\Debug\net10.0\ApiGestaoProcessos.dll
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PW II - 5ºP\ApiGestaoProcessos\obj\Debug\net10.0\refint\ApiGestaoProcessos.dll
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PW II - 5ºP\ApiGestaoProcessos\obj\Debug\net10.0\ApiGestaoProcessos.pdb
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PW II - 5ºP\ApiGestaoProcessos\obj\Debug\net10.0\ApiGestaoProcessos.genruntimeconfig.cache
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PW II - 5ºP\ApiGestaoProcessos\obj\Debug\net10.0\ref\ApiGestaoProcessos.dll
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PW II - 5ºP\ApiGestaoProcessos\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PW II - 5ºP\ApiGestaoProcessos\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PW II - 5ºP\ApiGestaoProcessos\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PW II - 5ºP\ApiGestaoProcessos\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PW II - 5ºP\ApiGestaoProcessos\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PW II - 5ºP\ApiGestaoProcessos\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PW II - 5ºP\ApiGestaoProcessos\bin\Debug\net10.0\MySqlConnector.dll
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PW II - 5ºP\ApiGestaoProcessos\bin\Debug\net10.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PABD - 5ºP\ApiGestaoProcessos\obj\Debug\net10.0\ApiGestaoProcessos.csproj.AssemblyReference.cache
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PABD - 5ºP\ApiGestaoProcessos\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PABD - 5ºP\ApiGestaoProcessos\obj\Debug\net10.0\ApiGestaoProcessos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PABD - 5ºP\ApiGestaoProcessos\obj\Debug\net10.0\ApiGestaoProcessos.AssemblyInfoInputs.cache
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PABD - 5ºP\ApiGestaoProcessos\obj\Debug\net10.0\ApiGestaoProcessos.AssemblyInfo.cs
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PABD - 5ºP\ApiGestaoProcessos\obj\Debug\net10.0\ApiGestaoProcessos.csproj.CoreCompileInputs.cache
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PABD - 5ºP\ApiGestaoProcessos\obj\Debug\net10.0\ApiGestaoProcessos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PABD - 5ºP\ApiGestaoProcessos\obj\Debug\net10.0\ApiGestaoProcessos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PABD - 5ºP\ApiGestaoProcessos\obj\Debug\net10.0\ApiGestaoProcessos.dll
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PABD - 5ºP\ApiGestaoProcessos\obj\Debug\net10.0\refint\ApiGestaoProcessos.dll
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PABD - 5ºP\ApiGestaoProcessos\obj\Debug\net10.0\ApiGestaoProcessos.pdb
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PABD - 5ºP\ApiGestaoProcessos\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PABD - 5ºP\ApiGestaoProcessos\bin\Debug\net10.0\appsettings.json
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PABD - 5ºP\ApiGestaoProcessos\bin\Debug\net10.0\ApiGestaoProcessos.staticwebassets.endpoints.json
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PABD - 5ºP\ApiGestaoProcessos\bin\Debug\net10.0\ApiGestaoProcessos.exe
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PABD - 5ºP\ApiGestaoProcessos\bin\Debug\net10.0\ApiGestaoProcessos.deps.json
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PABD - 5ºP\ApiGestaoProcessos\bin\Debug\net10.0\ApiGestaoProcessos.runtimeconfig.json
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PABD - 5ºP\ApiGestaoProcessos\bin\Debug\net10.0\ApiGestaoProcessos.dll
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PABD - 5ºP\ApiGestaoProcessos\bin\Debug\net10.0\ApiGestaoProcessos.pdb
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PABD - 5ºP\ApiGestaoProcessos\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PABD - 5ºP\ApiGestaoProcessos\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PABD - 5ºP\ApiGestaoProcessos\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PABD - 5ºP\ApiGestaoProcessos\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PABD - 5ºP\ApiGestaoProcessos\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PABD - 5ºP\ApiGestaoProcessos\bin\Debug\net10.0\MySqlConnector.dll
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PABD - 5ºP\ApiGestaoProcessos\bin\Debug\net10.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PABD - 5ºP\ApiGestaoProcessos\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PABD - 5ºP\ApiGestaoProcessos\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PABD - 5ºP\ApiGestaoProcessos\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PABD - 5ºP\ApiGestaoProcessos\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PABD - 5ºP\ApiGestaoProcessos\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PABD - 5ºP\ApiGestaoProcessos\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PABD - 5ºP\ApiGestaoProcessos\obj\Debug\net10.0\scopedcss\bundle\ApiGestaoProcessos.styles.css
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PABD - 5ºP\ApiGestaoProcessos\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PABD - 5ºP\ApiGestaoProcessos\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PABD - 5ºP\ApiGestaoProcessos\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PABD - 5ºP\ApiGestaoProcessos\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PABD - 5ºP\ApiGestaoProcessos\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PABD - 5ºP\ApiGestaoProcessos\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PABD - 5ºP\ApiGestaoProcessos\obj\Debug\net10.0\ApiGesta.A5B59099.Up2Date
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PABD - 5ºP\ApiGestaoProcessos\obj\Debug\net10.0\ApiGestaoProcessos.genruntimeconfig.cache
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PABD - 5ºP\ApiGestaoProcessos\obj\Debug\net10.0\ref\ApiGestaoProcessos.dll
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PABD - 5ºP\ApiGestaoProcessos\bin\Debug\net10.0\AutoMapper.dll
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PABD - 5ºP\ApiGestaoProcessos\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PABD - 5ºP\ApiGestaoProcessos\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PABD - 5ºP\ApiGestaoProcessos\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PABD - 5ºP\ApiGestaoProcessos\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
