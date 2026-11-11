@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wxyFU2/yUtc=",
+  "dgSpecHash": "p9u1lHw/258=",
   "success": true,
-  "projectFilePath": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5ºP\\ApiGestaoProcessos\\ApiGestaoProcessos.csproj",
+  "projectFilePath": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5ºP\\evento_api\\evento_api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hyago\\.nuget\\packages\\automapper\\16.2.0\\automapper.16.2.0.nupkg.sha512",
     "C:\\Users\\hyago\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.10\\microsoft.aspnetcore.openapi.10.0.10.nupkg.sha512",
@@ -23,5 +23,18 @@
     "C:\\Users\\hyago\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.2.3\\swashbuckle.aspnetcore.swaggergen.10.2.3.nupkg.sha512",
     "C:\\Users\\hyago\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.2.3\\swashbuckle.aspnetcore.swaggerui.10.2.3.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "message": "O pacote 'MySqlConnector' 2.4.0 tem uma moderado vulnerabilidade de gravidade conhecida, https://github.com/advisories/GHSA-473q-m89c-ghf8",
+      "projectPath": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5ºP\\evento_api\\evento_api.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5ºP\\evento_api\\evento_api.csproj",
+      "libraryId": "MySqlConnector",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
 }

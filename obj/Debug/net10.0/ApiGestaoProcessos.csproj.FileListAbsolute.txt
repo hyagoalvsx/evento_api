@@ -87,3 +87,4 @@ C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PABD - 5ºP\ApiGestaoProcessos\bin
 C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PABD - 5ºP\ApiGestaoProcessos\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
 C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PABD - 5ºP\ApiGestaoProcessos\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
 C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PABD - 5ºP\ApiGestaoProcessos\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hyago\OneDrive\Documentos\IFRO - ADS\PABD - 5ºP\ApiGestaoProcessos\obj\Debug\net10.0\ApiGestaoProcessos.sourcelink.json

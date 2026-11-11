@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiGestaoProcessos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00676564b1a9c2c915abffd96831beb680a9da1b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiGestaoProcessos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiGestaoProcessos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

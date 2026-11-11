@@ -52,6 +52,85 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "ApiGestaoProcessos.Controllers.MarcacoesController",
+    "Method": "Get",
+    "RelativePath": "api/Marcacoes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiGestaoProcessos.Controllers.MarcacoesController",
+    "Method": "Post",
+    "RelativePath": "api/Marcacoes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "data",
+        "Type": "ApiGestaoProcessos.Dtos.MarcacaoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiGestaoProcessos.Controllers.MarcacoesController",
+    "Method": "GetById",
+    "RelativePath": "api/Marcacoes/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiGestaoProcessos.Controllers.MarcacoesController",
+    "Method": "Put",
+    "RelativePath": "api/Marcacoes/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "data",
+        "Type": "ApiGestaoProcessos.Dtos.MarcacaoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiGestaoProcessos.Controllers.MarcacoesController",
+    "Method": "Delete",
+    "RelativePath": "api/Marcacoes/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "ApiGestaoProcessos.Controllers.HomeController",
     "Method": "Get2",
     "RelativePath": "down",
