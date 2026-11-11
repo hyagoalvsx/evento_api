@@ -3,80 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|ApiGestaoProcessos.csproj|c:\\users\\hyago\\onedrive\\documentos\\ifro - ads\\pabd - 5\u00BAp\\evento_api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|ApiGestaoProcessos.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|ApiGestaoProcessos.csproj|c:\\users\\hyago\\onedrive\\documentos\\ifro - ads\\pabd - 5\u00BAp\\evento_api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|ApiGestaoProcessos.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|ApiGestaoProcessos.csproj|c:\\users\\hyago\\onedrive\\documentos\\ifro - ads\\pabd - 5\u00BAp\\evento_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|ApiGestaoProcessos.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|evento_api.csproj|c:\\users\\hyago\\onedrive\\documentos\\ifro - ads\\pabd - 5\u00BAp\\evento_api\\entities\\artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|evento_api.csproj|solutionrelative:entities\\artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|evento_api.csproj|c:\\users\\hyago\\onedrive\\documentos\\ifro - ads\\pabd - 5\u00BAp\\evento_api\\entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|evento_api.csproj|solutionrelative:entities\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|evento_api.csproj|c:\\users\\hyago\\onedrive\\documentos\\ifro - ads\\pabd - 5\u00BAp\\evento_api\\entities\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|evento_api.csproj|solutionrelative:entities\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|evento_api.csproj|c:\\users\\hyago\\onedrive\\documentos\\ifro - ads\\pabd - 5\u00BAp\\evento_api\\entities\\ingresso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|evento_api.csproj|solutionrelative:entities\\ingresso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|evento_api.csproj|c:\\users\\hyago\\onedrive\\documentos\\ifro - ads\\pabd - 5\u00BAp\\evento_api\\entities\\local.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|evento_api.csproj|solutionrelative:entities\\local.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|evento_api.csproj|c:\\users\\hyago\\onedrive\\documentos\\ifro - ads\\pabd - 5\u00BAp\\evento_api\\evento_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|evento_api.csproj|solutionrelative:evento_api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|ApiGestaoProcessos.csproj|c:\\users\\hyago\\onedrive\\documentos\\ifro - ads\\pabd - 5\u00BAp\\evento_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|ApiGestaoProcessos.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|ApiGestaoProcessos.csproj|c:\\users\\hyago\\onedrive\\documentos\\ifro - ads\\pabd - 5\u00BAp\\evento_api\\apigestaoprocessos.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|ApiGestaoProcessos.csproj|solutionrelative:apigestaoprocessos.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|ApiGestaoProcessos.csproj|c:\\users\\hyago\\onedrive\\documentos\\ifro - ads\\pabd - 5\u00BAp\\evento_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|ApiGestaoProcessos.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|ApiGestaoProcessos.csproj|c:\\users\\hyago\\onedrive\\documentos\\ifro - ads\\pabd - 5\u00BAp\\evento_api\\dtos\\responses\\processoetaparesponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|ApiGestaoProcessos.csproj|solutionrelative:dtos\\responses\\processoetaparesponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|ApiGestaoProcessos.csproj|c:\\users\\hyago\\onedrive\\documentos\\ifro - ads\\pabd - 5\u00BAp\\evento_api\\controllers\\processocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|ApiGestaoProcessos.csproj|solutionrelative:controllers\\processocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|ApiGestaoProcessos.csproj|c:\\users\\hyago\\onedrive\\documentos\\ifro - ads\\pabd - 5\u00BAp\\evento_api\\entities\\etapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|ApiGestaoProcessos.csproj|solutionrelative:entities\\etapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|ApiGestaoProcessos.csproj|c:\\users\\hyago\\onedrive\\documentos\\ifro - ads\\pabd - 5\u00BAp\\evento_api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|ApiGestaoProcessos.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|ApiGestaoProcessos.csproj|c:\\users\\hyago\\onedrive\\documentos\\ifro - ads\\pabd - 5\u00BAp\\evento_api\\entities\\processo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|ApiGestaoProcessos.csproj|solutionrelative:entities\\processo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|ApiGestaoProcessos.csproj|c:\\users\\hyago\\onedrive\\documentos\\ifro - ads\\pabd - 5\u00BAp\\evento_api\\entities\\processoetapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|ApiGestaoProcessos.csproj|solutionrelative:entities\\processoetapa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|ApiGestaoProcessos.csproj|c:\\users\\hyago\\onedrive\\documentos\\ifro - ads\\pabd - 5\u00BAp\\evento_api\\dtos\\responses\\processoresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|ApiGestaoProcessos.csproj|solutionrelative:dtos\\responses\\processoresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|ApiGestaoProcessos.csproj|c:\\users\\hyago\\onedrive\\documentos\\ifro - ads\\pabd - 5\u00BAp\\evento_api\\dtos\\responses\\etaparesponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|ApiGestaoProcessos.csproj|solutionrelative:dtos\\responses\\etaparesponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|ApiGestaoProcessos.csproj|c:\\users\\hyago\\onedrive\\documentos\\ifro - ads\\pabd - 5\u00BAp\\evento_api\\entities\\marcacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|ApiGestaoProcessos.csproj|solutionrelative:entities\\marcacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|ApiGestaoProcessos.csproj|c:\\users\\hyago\\onedrive\\documentos\\ifro - ads\\pabd - 5\u00BAp\\evento_api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|ApiGestaoProcessos.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|ApiGestaoProcessos.csproj|c:\\users\\hyago\\onedrive\\documentos\\ifro - ads\\pabd - 5\u00BAp\\evento_api\\controllers\\marcacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|ApiGestaoProcessos.csproj|solutionrelative:controllers\\marcacaocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|ApiGestaoProcessos.csproj|c:\\users\\hyago\\onedrive\\documentos\\ifro - ads\\pabd - 5\u00BAp\\evento_api\\dtos\\responses\\marcacaoresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|ApiGestaoProcessos.csproj|solutionrelative:dtos\\responses\\marcacaoresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|ApiGestaoProcessos.csproj|c:\\users\\hyago\\onedrive\\documentos\\ifro - ads\\pabd - 5\u00BAp\\evento_api\\dtos\\responses\\clientesresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|ApiGestaoProcessos.csproj|solutionrelative:dtos\\responses\\clientesresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|ApiGestaoProcessos.csproj|c:\\users\\hyago\\onedrive\\documentos\\ifro - ads\\pabd - 5\u00BAp\\evento_api\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|ApiGestaoProcessos.csproj|solutionrelative:controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|ApiGestaoProcessos.csproj|c:\\users\\hyago\\onedrive\\documentos\\ifro - ads\\pabd - 5\u00BAp\\evento_api\\entities\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|ApiGestaoProcessos.csproj|solutionrelative:entities\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|ApiGestaoProcessos.csproj|c:\\users\\hyago\\onedrive\\documentos\\ifro - ads\\pabd - 5\u00BAp\\evento_api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{69549644-FEDA-1C9B-3E59-0E11624DCBB0}|ApiGestaoProcessos.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,11 +50,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 203,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Artista.cs",
+              "DocumentMoniker": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\Entities\\Artista.cs",
+              "RelativeDocumentMoniker": "Entities\\Artista.cs",
+              "ToolTip": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\Entities\\Artista.cs",
+              "RelativeToolTip": "Entities\\Artista.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T23:58:17.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\Entities\\Cliente.cs",
+              "RelativeDocumentMoniker": "Entities\\Cliente.cs",
+              "ToolTip": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\Entities\\Cliente.cs",
+              "RelativeToolTip": "Entities\\Cliente.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T23:34:54.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T00:08:42.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T00:17:29.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "evento_api.http",
+              "DocumentMoniker": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\evento_api.http",
+              "RelativeDocumentMoniker": "evento_api.http",
+              "ToolTip": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\evento_api.http",
+              "RelativeToolTip": "evento_api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-11-11T00:28:25.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ingresso.cs",
+              "DocumentMoniker": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\Entities\\Ingresso.cs",
+              "RelativeDocumentMoniker": "Entities\\Ingresso.cs",
+              "ToolTip": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\Entities\\Ingresso.cs",
+              "RelativeToolTip": "Entities\\Ingresso.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAkwBUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-28T00:02:55.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Local.cs",
+              "DocumentMoniker": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\Entities\\Local.cs",
+              "RelativeDocumentMoniker": "Entities\\Local.cs",
+              "ToolTip": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\Entities\\Local.cs",
+              "RelativeToolTip": "Entities\\Local.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA7wBUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T00:02:58.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Evento.cs",
+              "DocumentMoniker": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\Entities\\Evento.cs",
+              "RelativeDocumentMoniker": "Entities\\Evento.cs",
+              "ToolTip": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\Entities\\Evento.cs",
+              "RelativeToolTip": "Entities\\Evento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-29T23:34:42.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-08-19T00:02:38.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -100,225 +181,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-11-11T00:28:49.347Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ApiGestaoProcessos.http",
-              "DocumentMoniker": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\ApiGestaoProcessos.http",
-              "RelativeDocumentMoniker": "ApiGestaoProcessos.http",
-              "ToolTip": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\ApiGestaoProcessos.http",
-              "RelativeToolTip": "ApiGestaoProcessos.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2026-11-11T00:28:25.617Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProcessoEtapaResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\Dtos\\Responses\\ProcessoEtapaResponseDto.cs",
-              "RelativeDocumentMoniker": "Dtos\\Responses\\ProcessoEtapaResponseDto.cs",
-              "ToolTip": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\Dtos\\Responses\\ProcessoEtapaResponseDto.cs",
-              "RelativeToolTip": "Dtos\\Responses\\ProcessoEtapaResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-28T00:37:56.359Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAAAwAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-19T00:08:42.5Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\appsettings.json*",
-              "RelativeToolTip": "appsettings.json*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-08-19T00:02:38.421Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAA1wB8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-19T00:17:29.459Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProcessoController.cs",
-              "DocumentMoniker": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\Controllers\\ProcessoController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProcessoController.cs",
-              "ToolTip": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\Controllers\\ProcessoController.cs",
-              "RelativeToolTip": "Controllers\\ProcessoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-12T01:23:49.078Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Etapa.cs",
-              "DocumentMoniker": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\Entities\\Etapa.cs",
-              "RelativeDocumentMoniker": "Entities\\Etapa.cs",
-              "ToolTip": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\Entities\\Etapa.cs",
-              "RelativeToolTip": "Entities\\Etapa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T23:58:17.989Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProcessoEtapa.cs",
-              "DocumentMoniker": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\Entities\\ProcessoEtapa.cs",
-              "RelativeDocumentMoniker": "Entities\\ProcessoEtapa.cs",
-              "ToolTip": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\Entities\\ProcessoEtapa.cs",
-              "RelativeToolTip": "Entities\\ProcessoEtapa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-28T00:02:55.383Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Processo.cs",
-              "DocumentMoniker": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\Entities\\Processo.cs",
-              "RelativeDocumentMoniker": "Entities\\Processo.cs",
-              "ToolTip": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\Entities\\Processo.cs",
-              "RelativeToolTip": "Entities\\Processo.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAkwCQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-29T23:34:42.618Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ProcessoResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\Dtos\\Responses\\ProcessoResponseDto.cs",
-              "RelativeDocumentMoniker": "Dtos\\Responses\\ProcessoResponseDto.cs",
-              "ToolTip": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\Dtos\\Responses\\ProcessoResponseDto.cs",
-              "RelativeToolTip": "Dtos\\Responses\\ProcessoResponseDto.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAQwA8AAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-08T23:37:55.576Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "EtapaResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\Dtos\\Responses\\EtapaResponseDto.cs",
-              "RelativeDocumentMoniker": "Dtos\\Responses\\EtapaResponseDto.cs",
-              "ToolTip": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\Dtos\\Responses\\EtapaResponseDto.cs",
-              "RelativeToolTip": "Dtos\\Responses\\EtapaResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-28T00:35:43.078Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T23:38:58.294Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Marcacao.cs",
-              "DocumentMoniker": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\Entities\\Marcacao.cs",
-              "RelativeDocumentMoniker": "Entities\\Marcacao.cs",
-              "ToolTip": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\Entities\\Marcacao.cs",
-              "RelativeToolTip": "Entities\\Marcacao.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T23:34:54.194Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "MarcacaoController.cs",
-              "DocumentMoniker": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\Controllers\\MarcacaoController.cs",
-              "RelativeDocumentMoniker": "Controllers\\MarcacaoController.cs",
-              "ToolTip": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\Controllers\\MarcacaoController.cs",
-              "RelativeToolTip": "Controllers\\MarcacaoController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T00:21:01.383Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "MarcacaoResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\Dtos\\Responses\\MarcacaoResponseDto.cs",
-              "RelativeDocumentMoniker": "Dtos\\Responses\\MarcacaoResponseDto.cs",
-              "ToolTip": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\Dtos\\Responses\\MarcacaoResponseDto.cs",
-              "RelativeToolTip": "Dtos\\Responses\\MarcacaoResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-07T00:30:28.878Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "ClientesResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\Dtos\\Responses\\ClientesResponseDto.cs",
-              "RelativeDocumentMoniker": "Dtos\\Responses\\ClientesResponseDto.cs",
-              "ToolTip": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\Dtos\\Responses\\ClientesResponseDto.cs",
-              "RelativeToolTip": "Dtos\\Responses\\ClientesResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-30T00:12:08.495Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ClientesController.cs",
-              "DocumentMoniker": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\Controllers\\ClientesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ClientesController.cs",
-              "ToolTip": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\Controllers\\ClientesController.cs",
-              "RelativeToolTip": "Controllers\\ClientesController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAIwCAAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-30T01:06:36.488Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Clientes.cs",
-              "DocumentMoniker": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\Entities\\Clientes.cs",
-              "RelativeDocumentMoniker": "Entities\\Clientes.cs",
-              "ToolTip": "C:\\Users\\hyago\\OneDrive\\Documentos\\IFRO - ADS\\PABD - 5\u00BAP\\evento_api\\Entities\\Clientes.cs",
-              "RelativeToolTip": "Entities\\Clientes.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-23T00:02:58.105Z"
             }
           ]
         }
